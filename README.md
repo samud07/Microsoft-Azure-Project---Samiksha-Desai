@@ -1,4 +1,4 @@
-# Microsoft Azure Project - Samiksha Desai
+# Microsoft Azure Project - Samiksha Sanjay Desai.
 
 Project Title:
 Doctor Appointment Application’s Virtual Networking Through Azure
@@ -13,7 +13,8 @@ Project Description:
 This Project includes Various Azure instances and Services, Azure Virtual Networks,
 Azure Virtual Machines, Azure Portal, Azure VPN Gateway, Availability Zones,
 Windows and Linux images, Storage Account etc.
-In two different locations, two virtual networks have been created.Subnets were
+
+  In two different locations, two virtual networks have been created.Subnets were
 subsequently established in each virtual network. Then, each subnet has two virtual
 machines created in it. A website is Hosted in each Virtual Machine. One gateway
 subnet is added to these virtual networks, and two virtual network gateways are then
@@ -22,6 +23,8 @@ Bidirectionally with one another and established a VPN tunnel, So that it ensure
 Application’s traffic is private and remains on the Microsoft backbone. It will help in
 establishing healthy communication between two different regional networks of this
 Application.
+
+![image](https://github.com/samud07/Microsoft-Azure-Project---Samiksha-Desai/assets/90560074/57fd7d3a-2f56-4244-a75d-d225ba0b5165)
 
 project Synopsis - https://drive.google.com/file/d/1EPW8HnTV3eAyjg_1XN3sYKXv9m7lv7hV/view?usp=drivesdk       
 
